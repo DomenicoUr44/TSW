@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+    <welcome-file-list>
+        <welcome-file>homepage.jsp</welcome-file>
+        <location>/homepage.jsp</location>
+        <display-name>IlMioDisplayName</display-name>
+    </welcome-file-list>
+</web-app>
